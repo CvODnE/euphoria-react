@@ -21,6 +21,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     font-family: 'Causten', sans-serif;
+    overflow-x: hidden;
   }
 `;
 

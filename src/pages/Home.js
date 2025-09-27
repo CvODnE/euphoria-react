@@ -528,6 +528,7 @@ const Header = styled.header `
     justify-content: space-between;
     height: 108px;
     padding: 0px 45px;
+    width: 90%;
     h1 a img {
         width: 91px;
         height: 45px;
@@ -636,6 +637,7 @@ const Spotlight = styled.section `
     background-size: cover;
     background-position: center;
     height: 716px;
+    width: 100%;
 `;
 const Top = styled.div `
     display: flex;
